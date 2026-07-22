@@ -1,0 +1,24 @@
+# Config and secrets
+ai_chat_config.json
+encryption.key
+
+# Chat data
+chats/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,6 +1,6 @@
-# TwinAI
+# TwinGPT
 
-**TwinAI** is a desktop application for orchestrating dialogues between two AI models. Built with CustomTkinter, it provides a polished interface for configuring, monitoring, and managing conversations between different LLM providers with full streaming support.
+**TwinGPT** is a desktop application for orchestrating dialogues between two AI models. Built with CustomTkinter, it provides a polished interface for configuring, monitoring, and managing conversations between different LLM providers with full streaming support.
 
 ## Features
 

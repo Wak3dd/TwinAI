@@ -26,5 +26,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twinai.git
-   cd twinai
+   git clone https://github.com/Wak3dd/twingpt.git
+   cd twingpt
